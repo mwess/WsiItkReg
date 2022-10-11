@@ -1,0 +1,7 @@
+itk
+opencv-python
+SimpleITK
+torch
+torchvision
+torchstain
+matplotlib

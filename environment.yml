@@ -1,0 +1,7 @@
+name: WsiItkReg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.8
